@@ -25,11 +25,12 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
+- [x] Add at least one (1) additional functionality
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
+- [x] Spinner include to divide by party size 
 
 ## Video Demo
 
