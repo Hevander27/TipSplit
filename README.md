@@ -39,7 +39,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/auJGiET.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
 GIF created with **your chosen GIF tool**
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/2RSxdJe"  ><a href="//imgur.com/a/2RSxdJe">Project 4 CodeMath</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Recommended tools:
