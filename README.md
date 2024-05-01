@@ -35,11 +35,8 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+![Project 4 CodeMath - Imgur](https://github.com/Hevander27/Task-Squirrel/assets/45948489/98ca4822-9a8f-418f-b16d-d83ff9da5101)
 
-
-<img src='https://i.imgur.com/auJGiET.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-GIF created with **your chosen GIF tool**
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/2RSxdJe"  ><a href="//imgur.com/a/2RSxdJe">Project 4 CodeMath</a></blockquote>
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
